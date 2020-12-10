@@ -43,6 +43,10 @@ Task 5: Deploying and Running Azure Container Instance
 
 Task 6: Deploying and Operating Azure WebApps for Containers
 
+## The handy lab-jumpVM
+
+While nothing should stop you from deploying your own Windows lab server on Azure, why doing things the hard way, when you can do them in an easy way, right? (and spend more time on online x-mas gift shopping and tasting eggnog...). Head over to [this link](https://github.com/pdtit/ARMTemplates/tree/master/JumpVM) and get your LabVM deployed in no-time (well, actually it takes 30min, but it comes with all necessary tools and features you expect from a proper lab-jumpVM like Visual Studio 2019, VS Code, Putty, 7zip, Azure Tools,... and much more). Almost a Christmas gift by itself.
+
 ## Task 1: Installing Docker Enterprise Edition (trial) for Windows Server 2019 on the lab-jumpVM
 
 1.  If not logged on anymore to the lab-jumpVM, open an RDP session to this
