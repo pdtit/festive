@@ -6,7 +6,7 @@ While this specific Hands-On Labs is and end-to-end complete exercise, know ther
 
 https://www.apress.com/gp/book/9781484264362
 
-  ![](media/apress-cover.tif)
+  ![](media/apress-cover.png) 
 
 ## What you will learn
 
