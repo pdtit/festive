@@ -2,7 +2,7 @@
 
 How how how!! Welcome to another Festive Tech Calendar event! In this month of learning, why not picking up some skills around Azure and how it allows you to host containerized applications?
 
-While this specific Hands-On Labs is and end-to-end complete exercise, know there is a lot more to migrating your (often legacy) applications to Azure, by using containers. This lab is a **FREE EXTRACT** of my recently published "Migrating a two-tier application to Azure using different platform capabilities" book by Apress
+While this specific Hands-On Labs is and end-to-end complete exercise, know there is a lot more to migrating your (often legacy) applications to Azure, by using containers. This lab is a **FREE EXTRACT** of my recently published **"Migrating a two-tier application to Azure using different platform capabilities"** book by Apress
 
 https://www.apress.com/gp/book/9781484264362
 
